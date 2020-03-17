@@ -1,0 +1,11 @@
+C:\Users\joser\source\repos\Guess a number\Guess a number\bin\Debug\netcoreapp3.1\Guess a number.exe
+C:\Users\joser\source\repos\Guess a number\Guess a number\bin\Debug\netcoreapp3.1\Guess a number.deps.json
+C:\Users\joser\source\repos\Guess a number\Guess a number\bin\Debug\netcoreapp3.1\Guess a number.runtimeconfig.json
+C:\Users\joser\source\repos\Guess a number\Guess a number\bin\Debug\netcoreapp3.1\Guess a number.runtimeconfig.dev.json
+C:\Users\joser\source\repos\Guess a number\Guess a number\bin\Debug\netcoreapp3.1\Guess a number.dll
+C:\Users\joser\source\repos\Guess a number\Guess a number\bin\Debug\netcoreapp3.1\Guess a number.pdb
+C:\Users\joser\source\repos\Guess a number\Guess a number\obj\Debug\netcoreapp3.1\Guess a number.csprojAssemblyReference.cache
+C:\Users\joser\source\repos\Guess a number\Guess a number\obj\Debug\netcoreapp3.1\Guess a number.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\Guess a number\Guess a number\obj\Debug\netcoreapp3.1\Guess a number.AssemblyInfo.cs
+C:\Users\joser\source\repos\Guess a number\Guess a number\obj\Debug\netcoreapp3.1\Guess a number.dll
+C:\Users\joser\source\repos\Guess a number\Guess a number\obj\Debug\netcoreapp3.1\Guess a number.pdb
